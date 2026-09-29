@@ -1,0 +1,5 @@
+# Local workspace files. go.work lives at ~/git/go.work and describes one
+# machine's checkout layout; it is never committed (bo-platform DECISIONS.md
+# 2026-09-29). These entries guard against one being created in-repo.
+go.work
+go.work.sum
